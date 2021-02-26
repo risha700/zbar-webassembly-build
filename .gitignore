@@ -4,4 +4,5 @@ zbar-0.10.tar.gz
 gh-pages
 emsdk/
 .vscode/
+.idea/
 .DS_Store
